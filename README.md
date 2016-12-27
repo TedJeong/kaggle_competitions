@@ -3,7 +3,7 @@
 product recommendation problem
 
 
-235th place
+250th place
 
 
 Xgboost is used. 
