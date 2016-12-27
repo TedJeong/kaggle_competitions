@@ -1,4 +1,4 @@
 # kaggle_santander
-product recommendation problem
-235th place
-Xgboost is used.
+product recommendation problem \n
+235th place \n
+Xgboost is used. \n
