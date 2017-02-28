@@ -1,4 +1,5 @@
-# kaggle_santander
+## santander product recommendation
+- in competition
 
 product recommendation problem
 
@@ -9,3 +10,8 @@ product recommendation problem
 235th place in public LB
 
 Xgboost is used. 
+
+
+## state farm distracted driver detection
+- after competition
+
