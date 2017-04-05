@@ -1,3 +1,0 @@
-num_round : 1000
-early_stop : 10
-{'reg_alpha': 2, 'colsample_bytree': 1, 'silent': 1, 'eval_metric': 'mlogloss', 'colsample_bylevel': 0.7, 'learning_rate': 0.033, 'nthread': 4, 'min_child_weight': 5, 'subsample': 0.8, 'reg_lambda': 3, 'seed': 777, 'objective': 'multi:softprob', 'num_class': 18, 'max_depth': 2, 'gamma': 3, 'booster': 'gbtree'}
